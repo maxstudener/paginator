@@ -1,6 +1,6 @@
 # Paginator
 
-Simple Ruby Gem for manual pagination.
+Generate an object to allow you to display pagination 1...234567...10.
 
 ## Installation
 
