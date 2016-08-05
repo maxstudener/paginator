@@ -16,7 +16,7 @@ describe Paginator::Base do
     end
 
     it 'sets number_of_previous_pages' do
-      assert_equal 5, @base.number_of_next_pages
+      assert_equal 5, @base.number_of_previous_pages
     end
 
     it 'sets number_of_next_pages' do
